@@ -24,3 +24,24 @@ Tracks palette + font pairing + hero layout per site so no two sites in a batch 
 | light-decor-pramod | #FFF8F1 / #EA580C + #F5C518 / #38190A | Ranade / Synonym | centered hero + service card strip, original animated SVG |
 | raveen-banquet | #F6F9F4 / #2D6A4F + #C9A227 / #12291E | Zodiak / Satoshi | asymmetric split, art card right, original animated SVG |
 | gillie-events | #FDF5F2 / #C9184A + #FF8FA3 / #380F1D | Chillax / Switzer | split reversed, art card left, original animated SVG |
+
+## 2026-11-16 (premium batch 2)
+
+
+| slug | palette (bg / accent / ink) | fonts (heading / body, Fontshare) | hero layout |
+|---|---|---|---|
+| maihar-coaching | #F6F7FE / #4F46E5 + #F59E0B / #191C3D | Clash Display / General Sans | asymmetric split, art card right, original animated SVG |
+| pk-mishra-classes | #F3FAFC / #0891B2 + #F97316 / #0C2E38 | Cabinet Grotesk / Satoshi | split reversed, art card left, original animated SVG |
+| nitish-academy | #FAFCF2 / #65A30D + #E11D48 / #26330F | Chillax / General Sans | centered hero + service card strip, original animated SVG |
+| scientific-tutorials | #FAF5FF / #9333EA + #FBBF24 / #2E1245 | Boska / Synonym | centered hero + large art card below, original animated SVG |
+| a-square-coaching | #FEF6F4 / #DC2626 + #0EA5E9 / #3D1414 | Supreme / Satoshi | split reversed, art card left, original animated SVG |
+| paramkamal-dental | #F2F8FC / #0369A1 + #F472B6 / #0F2A3D | Sentient / General Sans | centered hero + service card strip, original animated SVG |
+| shubh-skin-care | #F4FAF4 / #15803D + #EAB308 / #12301B | Zodiak / Switzer | asymmetric split, art card right, original animated SVG |
+| pearl-dental | #FDF4F8 / #BE185D + #38BDF8 / #3B0F24 | Erode / Synonym | split reversed, art card left, original animated SVG |
+| karuna-dental | #FBF5F0 / #7C2D12 + #2563EB / #33170C | Gambetta / Satoshi | centered hero + large art card below, original animated SVG |
+| dr-ashas-dental | #F3F7FE / #1D4ED8 + #FB7185 / #12233F | Bespoke Serif / General Sans | asymmetric split, art card right, original animated SVG |
+| qu-evento | #F2FAF9 / #0E7490 + #F59E0B / #10333A | Ranade / Switzer | centered hero + large art card below, original animated SVG |
+| 7-season-events | #FCF5FD / #A21CAF + #22C55E / #3A1040 | Clash Display / Synonym | centered hero + service card strip, original animated SVG |
+| blessing-banquet | #FBF7F1 / #92400E + #0D9488 / #38200F | Cabinet Grotesk / Switzer | split reversed, art card left, original animated SVG |
+| gravitas-banquet | #F5F6FD / #4338CA + #F97316 / #1A1C40 | Supreme / Switzer | asymmetric split, art card right, original animated SVG |
+| divine-event-planner | #FBF3F5 / #9F1239 + #0EA5E9 / #38101C | Sentient / Satoshi | centered hero + large art card below, original animated SVG |
