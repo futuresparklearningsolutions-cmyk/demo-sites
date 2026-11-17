@@ -45,3 +45,8 @@ Tracks palette + font pairing + hero layout per site so no two sites in a batch 
 | blessing-banquet | #FBF7F1 / #92400E + #0D9488 / #38200F | Cabinet Grotesk / Switzer | split reversed, art card left, original animated SVG |
 | gravitas-banquet | #F5F6FD / #4338CA + #F97316 / #1A1C40 | Supreme / Switzer | asymmetric split, art card right, original animated SVG |
 | divine-event-planner | #FBF3F5 / #9F1239 + #0EA5E9 / #38101C | Sentient / Satoshi | centered hero + large art card below, original animated SVG |
+
+## 2026-11-17 (premium batch 3)
+15 sites, palettes PALS[0-14] + font pairs FONTS[0-14] from builder/engine4.py (all new, unused in batches 1-2):
+mn-academy (H1/O1), omegans (H2/O2), success-station (H3/O3), cp-academy (H4/O1), plancess-academy (H1/O2), shree-sai-dental (H2/O3), ashok-dental (H3/O1), priya-dental (H4/O2), sanjeevani-skin (H1/O3), dr-mj-azad (H2/O1), shagun-banquet (H3/O2), hotel-sagar-banquet (H4/O3), pushpak-banquet (H1/O1), sr-events (H2/O2), colourful-canopy (H3/O3).
+Art sets: coach/clinic/wed arts index = i%3 per category. Hours-unlisted sites render a "Shared on call or WhatsApp" timings row (hrow 'na').
